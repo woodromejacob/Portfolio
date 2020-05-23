@@ -1,0 +1,14 @@
+Additional Features:
+
+1. Theme - made the game theme mario, included a cohesive theme throughout the games entirity
+2.  Pictures for characters - added pictures for platforms and characters and added a background image
+3.  Cool animated start screen - added a start screen w/ pics and button to start the game, display highscores, display game story, and display controls
+4. Controls button - added a controls screen
+5. Game story button - added a game story screen that explains our theme
+6.  Animation - added detailed animation for appropriate characters' images
+7.  High score list - implemented a high score list that reads and sorts scores/names from a text file
+8. Hard mode - implemented a different mode that is like an 'insane' mode on a different game, able to be toggled from start screen
+9. Pause button - press p to pause and unpause the game
+10. Final boss - implemented level where final boss must be fought in order to win the game
+11. Intelligence - bullets, final boss bullets, and the final boss itself 'track' the hero based on its changing location,  directions  of these objects are changing
+12. Speed run scoring system - based scoring system off of a 'speed run' score more points quicker level is defeated based on a multiplier.  
